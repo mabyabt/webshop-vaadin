@@ -1,6 +1,7 @@
 package com.restshop.application.views.checkout;
 
-import com.example.application.views.MainLayout;
+import com.restshop.application.views.MainLayout;
+import com.restshop.application.views.MainLayout;
 import com.restshop.application.views.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.button.Button;

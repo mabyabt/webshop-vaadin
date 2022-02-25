@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\Bence\\Desktop\\my-shop-app",
+  "generatedFolder": "C:\\Users\\Bence\\Desktop\\my-shop-app\\target\\frontend",
+  "frontendFolder": "C:\\Users\\Bence\\Desktop\\my-shop-app\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\Bence\\Desktop\\my-shop-app\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\Bence\\Desktop\\my-shop-app\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\Bence\\Desktop\\my-shop-app\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\Bence\\Desktop\\my-shop-app\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\Bence\\Desktop\\my-shop-app\\frontend\\generated",
+  "pnpm.enable": true,
+  "require.home.node": false,
+  "build.folder": "target"
+}
