@@ -69,7 +69,7 @@
     "@vaadin/vaadin-confirm-dialog": "22.0.5",
     "@vaadin/vaadin-context-menu": "22.0.5",
     "@vaadin/vaadin-cookie-consent": "22.0.5",
-    "@vaadin/vaadin-core-shrinkwrap": "22.0.6",
+    "@vaadin/vaadin-core-shrinkwrap": "22.0.7",
     "@vaadin/vaadin-crud": "22.0.5",
     "@vaadin/vaadin-custom-field": "22.0.5",
     "@vaadin/vaadin-date-picker": "22.0.5",
@@ -94,7 +94,7 @@
     "@vaadin/vaadin-radio-button": "22.0.5",
     "@vaadin/vaadin-rich-text-editor": "22.0.5",
     "@vaadin/vaadin-select": "22.0.5",
-    "@vaadin/vaadin-shrinkwrap": "22.0.6",
+    "@vaadin/vaadin-shrinkwrap": "22.0.7",
     "@vaadin/vaadin-split-layout": "22.0.5",
     "@vaadin/vaadin-tabs": "22.0.5",
     "@vaadin/vaadin-text-field": "22.0.5",
@@ -106,6 +106,7 @@
     "@vaadin/virtual-list": "22.0.5",
     "construct-style-sheets-polyfill": "3.0.4",
     "date-fns": "2.23.0",
+    "line-awesome": "1.3.0",
     "lit": "2.0.0"
   },
   "devDependencies": {
@@ -202,7 +203,7 @@
       "@vaadin/vaadin-confirm-dialog": "22.0.5",
       "@vaadin/vaadin-context-menu": "22.0.5",
       "@vaadin/vaadin-cookie-consent": "22.0.5",
-      "@vaadin/vaadin-core-shrinkwrap": "22.0.6",
+      "@vaadin/vaadin-core-shrinkwrap": "22.0.7",
       "@vaadin/vaadin-crud": "22.0.5",
       "@vaadin/vaadin-custom-field": "22.0.5",
       "@vaadin/vaadin-date-picker": "22.0.5",
@@ -227,7 +228,7 @@
       "@vaadin/vaadin-radio-button": "22.0.5",
       "@vaadin/vaadin-rich-text-editor": "22.0.5",
       "@vaadin/vaadin-select": "22.0.5",
-      "@vaadin/vaadin-shrinkwrap": "22.0.6",
+      "@vaadin/vaadin-shrinkwrap": "22.0.7",
       "@vaadin/vaadin-split-layout": "22.0.5",
       "@vaadin/vaadin-tabs": "22.0.5",
       "@vaadin/vaadin-text-field": "22.0.5",
@@ -239,6 +240,7 @@
       "@vaadin/virtual-list": "22.0.5",
       "construct-style-sheets-polyfill": "3.0.4",
       "date-fns": "2.23.0",
+      "line-awesome": "1.3.0",
       "lit": "2.0.0"
     },
     "devDependencies": {
@@ -263,6 +265,6 @@
       "workbox-precaching": "6.4.2",
       "workbox-webpack-plugin": "6.4.2"
     },
-    "hash": "02034bc43d0bfa75d44dd7dd3902a34ce61c95c361e1002f8ddf0f2ddd3a75ab"
+    "hash": "daac12c73c874cc87bcbd0d28050737339ab16aa79596ff958cb15d7f641f4bf"
   }
 }

@@ -2,22 +2,22 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <!-- Project from https://start.vaadin.com/project/5b28fb10-a516-4304-8ac0-de28cf125b2a -->
-    <groupId>com.restshop.application</groupId>
-    <artifactId>myshopapp</artifactId>
-    <name>My shop App</name>
+    <!-- Project from https://start.vaadin.com/project/229f7653-a25d-4e21-acdf-6fb168436710 -->
+    <groupId>com.example.application</groupId>
+    <artifactId>mywebshop</artifactId>
+    <name>My webshop</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
         <java.version>11</java.version>
-        <vaadin.version>22.0.6</vaadin.version>
+        <vaadin.version>22.0.7</vaadin.version>
     </properties>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.6.2</version>
+        <version>2.6.4</version>
     </parent>
 
     <repositories>
@@ -88,27 +88,6 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.vaadin</groupId>
-            <artifactId>exampledata</artifactId>
-            <version>4.1.1</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.h2database</groupId>
-            <artifactId>h2</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jpa</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
         <dependency>
@@ -158,6 +137,7 @@
                     <wait>500</wait>
                     <maxAttempts>240</maxAttempts>
                 </configuration>
+                
             </plugin>
 
             <!--
